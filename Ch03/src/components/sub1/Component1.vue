@@ -1,6 +1,6 @@
 <template>
     <h4>Component1</h4>
-    <p>사용자 정의 컴포넌트</p>
+    <p>사용자 정의 컴포넌트1</p>
 </template>
 <script>
 export default {
